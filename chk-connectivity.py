@@ -3,8 +3,8 @@
 
 # USAGE: python3 chk-connectivity.py
 #
-# it will check some urls passed in a listm that we yield from,
-# some are unresilvable domains, others are, all in the outputs
+# it will check some urls passed in a list to a function, that we yield from.
+# some are not reoslvable domains, others are, all in the outputs
 #
 
 
